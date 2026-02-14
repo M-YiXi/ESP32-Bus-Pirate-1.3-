@@ -1,0 +1,13 @@
+{
+  "name": "ESP32 Bus Pirate - ESP32-S3 N16R8",
+  "version": "1.2",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "https://github.com/M-YiXi/ESP32-BusPirate__Chinese-Localization__A-versatile-hacker-terminal/blob/9bd23855b7337ad58f4687d4b17e3977f7c427c2/docs/firmwares/s3-devkit.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
