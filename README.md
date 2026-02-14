@@ -3,6 +3,7 @@
 原始项目：https://github.com/geo-tp/ESP32-Bus-Pirate  
 
 注：原始项目包含了项目的完整介绍，与使用方法，包含但不限于提供网页一键刷入服务（纯英文）  
+你也可以使用我提供的一键刷写网页（基于原网页修改）https://m-yixi.github.io/ESP32-BusPirate__Chinese-Localization__A-versatile-hacker-terminal/
 
 汉化的文件为src文件夹，包括其中的几乎所有.cpp文件与部分.h文件。本人不保证所有功能正常使用，我唯一确定的是s3-devkit是正常启动的  
 
