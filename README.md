@@ -3,9 +3,9 @@
 原始项目：https://github.com/geo-tp/ESP32-Bus-Pirate  
 
 注：原始项目包含了项目的完整介绍，与使用方法，包含但不限于提供网页一键刷入服务（纯英文）  
-你也可以使用我提供的一键刷写网页（基于原网页修改）https://m-yixi.github.io/ESP32-BusPirate__Chinese-Localization__A-versatile-hacker-terminal/
+汉化的一键刷入网页：（无法进行完整运行）https://m-yixi.github.io/ESP32-BusPirate__Chinese-Localization__A-versatile-hacker-terminal/
 
-汉化的文件为src文件夹，包括其中的几乎所有.cpp文件与部分.h文件。本人不保证所有功能正常使用，我唯一确定的是s3-devkit是正常启动的  
+汉化的文件为src文件夹，包括其中的几乎所有.cpp文件与部分.h文件（部分使用了ai功能）。确定的是s3-devkit是正常启动的  
 
 无法正常使用的文件：s3-devkit-n16-r8，如果你是这块主板，使用s3-devkit固件便可正常启动  
 
